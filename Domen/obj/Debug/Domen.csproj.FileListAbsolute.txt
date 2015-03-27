@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\POSLE ISPITA\SocketCommunication\Domen\bin\Debug\Domen.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\POSLE ISPITA\SocketCommunication\Domen\bin\Debug\Domen.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\POSLE ISPITA\SocketCommunication\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\POSLE ISPITA\SocketCommunication\Domen\obj\Debug\Domen.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\POSLE ISPITA\SocketCommunication\Domen\obj\Debug\Domen.pdb

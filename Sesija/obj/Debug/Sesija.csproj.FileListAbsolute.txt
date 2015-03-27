@@ -1,0 +1,7 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\POSLE ISPITA\SocketCommunication\Sesija\bin\Debug\Sesija.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\POSLE ISPITA\SocketCommunication\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\POSLE ISPITA\SocketCommunication\Sesija\bin\Debug\Domen.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\POSLE ISPITA\SocketCommunication\Sesija\bin\Debug\Domen.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\POSLE ISPITA\SocketCommunication\Sesija\obj\Debug\Sesija.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\POSLE ISPITA\SocketCommunication\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\POSLE ISPITA\SocketCommunication\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
